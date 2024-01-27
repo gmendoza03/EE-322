@@ -2,5 +2,6 @@
 ## Gabriel Mendoza 
 ### Gabriel Mendoza 
 **Bold:Gabriel Mendoza**
-ln*Italic:Gabriel Mendoza*
+
+*Italic:Gabriel Mendoza*
 
