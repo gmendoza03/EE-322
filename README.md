@@ -19,4 +19,4 @@
 
 [Stevens Institute of Technology](https://www.stevens.edu/)
 ----
-!(Screenshot(35).jpg)
+![image](Screenshot(35).jpg)
