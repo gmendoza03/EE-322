@@ -18,3 +18,6 @@
 -----
 
 [Stevens Institute of Technology](https://www.stevens.edu/)
+----
+![alttext](![image](https://github.com/gmendoza03/EE-322/assets/123032059/6d5feda8-543a-4f2c-a9bc-a7344063228d))
+
