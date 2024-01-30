@@ -5,11 +5,13 @@
 
 
 > "Talent wins games, but teamwork and intelligence win championships." – Michael Jordan
+
 *Places I Traveled*
 1. Ecuador
 2. Canada
 3. Florida
-> Places I want to Travel:
+   
+**Places I want to Travel**
 
 - Spain
 - Cuba
