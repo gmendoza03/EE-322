@@ -28,4 +28,4 @@ return 0;} `
 [Stevens Institute of Technology](https://www.stevens.edu/)
 
 ---
-![Picture of Hawthorne Highschool](https://www.highreshdwallpapers.com/wp-content/uploads/2014/06/HD-Ecuador-Flag-Wallpaper.jpg)
+![Picture of Ecuadorian Flag](https://www.highreshdwallpapers.com/wp-content/uploads/2014/06/HD-Ecuador-Flag-Wallpaper.jpg)
