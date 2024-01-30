@@ -28,4 +28,4 @@ return 0;} `
 [Stevens Institute of Technology](https://www.stevens.edu/)
 
 ---
-![Picture of Stevens Institute of Technology Logo](https://s3.ap-south-1.amazonaws.com/leverageedu/school-logo/us/2020-01-31_31_Stevens-Apparel-Color-R.png)
+![Picture of Stevens Institute of Technology Logo]([https://s3.ap-south-1.amazonaws.com/leverageedu/school-logo/us/2020-01-31_31_Stevens-Apparel-Color-R.png](https://th.bing.com/th/id/OIP.zrVVK6Hyx4I1tS7nB1KpogHaFj?rs=1&pid=ImgDetMain)https://th.bing.com/th/id/OIP.zrVVK6Hyx4I1tS7nB1KpogHaFj?rs=1&pid=ImgDetMain)
