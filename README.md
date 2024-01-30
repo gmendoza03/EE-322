@@ -1,10 +1,11 @@
 # Gabriel Mendoza 
-## Gabriel Mendoza 
-### Gabriel Mendoza 
-**Bold:Gabriel Mendoza**
+## Electrical Engineer Major  
+### 3rd Year 
+**Concentration:Power Engineering**
 
-*Italic:Gabriel Mendoza*
-> Places Traveled:
+
+> "Talent wins games, but teamwork and intelligence win championships." – Michael Jordan
+*Places I Traveled*
 1. Ecuador
 2. Canada
 3. Florida
