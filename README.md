@@ -1,7 +1,7 @@
 # Gabriel Mendoza 
 ## Electrical Engineer Major  
 ### 3rd Year 
-**Concentration:Power Engineering**
+**Concentration: Power Engineering**
 
 
 > "Talent wins games, but teamwork and intelligence win championships." – Michael Jordan
